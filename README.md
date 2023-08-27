@@ -28,7 +28,7 @@ using the following commands:
 
 ``` bash
 # Download a wordpress docker-compose example
-git clone https://github.com/kassambara/wordpress-docker-compose
+git clone [https://github.com/quyennguyenthanh/wordpressDocker-Compose.git]
 cd wordpress-docker-compose
 # Build and start installation
 docker-compose up -d --build
